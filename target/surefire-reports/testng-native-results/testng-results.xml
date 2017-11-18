@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46" started-at="2017-11-18T19:27:53Z" finished-at="2017-11-18T19:27:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2017-11-18T19:27:53Z" finished-at="2017-11-18T19:27:53Z">
+      <class name="com.mycompany.app.APITest">
+        <test-method status="PASS" signature="connectionRequest()[pri:0, instance:com.mycompany.app.APITest@17550481]" name="connectionRequest" duration-ms="7" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectionRequest -->
+        <test-method status="PASS" signature="listeningToGet200()[pri:0, instance:com.mycompany.app.APITest@17550481]" name="listeningToGet200" duration-ms="0" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listeningToGet200 -->
+      </class> <!-- com.mycompany.app.APITest -->
+      <class name="com.mycompany.app.SeleniumTest">
+        <test-method status="PASS" signature="browserConfig()[pri:0, instance:com.mycompany.app.SeleniumTest@2c6a3f77]" name="browserConfig" duration-ms="1" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method status="PASS" signature="titleMatch()[pri:0, instance:com.mycompany.app.SeleniumTest@2c6a3f77]" name="titleMatch" duration-ms="1" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleMatch -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+      <class name="com.mycompany.app.AppiumTest">
+        <test-method status="PASS" signature="checkForCoolApps()[pri:0, instance:com.mycompany.app.AppiumTest@1324409e]" name="checkForCoolApps" duration-ms="1" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForCoolApps -->
+        <test-method status="PASS" signature="checkingAdnroid()[pri:0, instance:com.mycompany.app.AppiumTest@1324409e]" name="checkingAdnroid" duration-ms="0" started-at="2017-11-18T20:27:53Z" finished-at="2017-11-18T20:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingAdnroid -->
+      </class> <!-- com.mycompany.app.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

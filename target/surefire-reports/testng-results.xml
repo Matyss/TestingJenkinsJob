@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2017-11-18T19:29:05Z" finished-at="2017-11-18T19:29:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2017-11-18T19:29:05Z" finished-at="2017-11-18T19:29:05Z">
+      <class name="com.mycompany.app.SeleniumTest">
+        <test-method status="PASS" signature="browserConfig()[pri:0, instance:com.mycompany.app.SeleniumTest@62043840]" name="browserConfig" duration-ms="11" started-at="2017-11-18T20:29:05Z" finished-at="2017-11-18T20:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfig -->
+        <test-method status="PASS" signature="titleMatch()[pri:0, instance:com.mycompany.app.SeleniumTest@62043840]" name="titleMatch" duration-ms="0" started-at="2017-11-18T20:29:05Z" finished-at="2017-11-18T20:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleMatch -->
+      </class> <!-- com.mycompany.app.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
